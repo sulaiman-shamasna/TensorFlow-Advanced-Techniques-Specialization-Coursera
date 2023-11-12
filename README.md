@@ -10,7 +10,7 @@ Deeplearning.AI TensorFlow: Advanced Techniques Specialization Solution
 * [Week 5: Custom Callbacks](https://github.com/sulaiman-shamasna/TensorFlow-Advanced-Techniques-Specialization-Coursera/tree/main/Course%20One%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/week%205%20-%20Custom%20Callbacks)
 
 Custom Visualize Predictions into Gifs Callbacks:
-<img src="https://github.com/sulaiman-shamasna/TensorFlow-Advanced-Techniques-Specialization-Coursera/blob/main/Course%20One%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/week%205%20-%20Custom%20Callbacks/animation.gif" width="1000" height="300" /> 
+<img src="https://github.com/sulaiman-shamasna/TensorFlow-Advanced-Techniques-Specialization-Coursera/blob/main/Course%20One%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/week%205%20-%20Custom%20Callbacks/animation.gif" width="800" height="200" /> 
 
   
 ## MOOC 2: Custom and Distributed Training with TensorFlow
