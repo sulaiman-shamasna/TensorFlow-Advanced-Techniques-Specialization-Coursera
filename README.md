@@ -13,7 +13,7 @@ Custom Visualize Predictions into Gifs Callbacks:
 <img src="https://github.com/sulaiman-shamasna/TensorFlow-Advanced-Techniques-Specialization-Coursera/blob/main/Course%20One%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/week%205%20-%20Custom%20Callbacks/animation.gif" width="800" height="200" /> 
 
   
-## MOOC 2: Custom and Distributed Training with TensorFlow
+## Course Two: Custom and Distributed Training with TensorFlow
 * [Week 1: Differentiation and Gradients](https://github.com/sulaiman-shamasna/TensorFlow-Advanced-Techniques-Specialization-Coursera/tree/main/Course%20Two%20-%20Custom%20and%20Distributed%20Training%20with%20TensorFlow/week%201%20-%20Differentiation%20and%20Gradients)
 * [Week 2: Custom and Distributed Training](https://github.com/sulaiman-shamasna/TensorFlow-Advanced-Techniques-Specialization-Coursera/tree/main/Course%20Two%20-%20Custom%20and%20Distributed%20Training%20with%20TensorFlow/week%202%20-%20Custom%20and%20Distributed%20Training)
 * [Week 3: Graph Mode](https://github.com/sulaiman-shamasna/TensorFlow-Advanced-Techniques-Specialization-Coursera/tree/main/Course%20Two%20-%20Custom%20and%20Distributed%20Training%20with%20TensorFlow/week%203%20-%20Graph%20Mode)
