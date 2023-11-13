@@ -4,13 +4,13 @@ Deeplearning.AI TensorFlow: Advanced Techniques Specialization Solution
 
 ## Course One: Custom Models, Layers, and Loss Functions with TensorFlow
 
-| Week | Topics                 | Links |
+| Week | Topics                 | Contents|
 |------|-----------------------|------|
-| Week 1 | [Functional APIs](https://github.com/sulaiman-shamasna/TensorFlow-Advanced-Techniques-Specialization-Coursera/tree/main/Course%20One%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/week%201%20-%20Functional%20APIs)     | [[Notes](), Assignments](), [Labs](), [Quizes]() |
-| Week 2 | [Custom Loss Functions](https://github.com/sulaiman-shamasna/TensorFlow-Advanced-Techniques-Specialization-Coursera/tree/main/Course%20One%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/week%202%20-%20Custom%20Loss%20Functions) | [Notes](), Assignments](), [Labs](), [Quizes]() |
-| Week 3 | [Custom Layers](https://github.com/sulaiman-shamasna/TensorFlow-Advanced-Techniques-Specialization-Coursera/tree/main/Course%20One%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/week%203%20-%20Custom%20Layers)         | [Notes](), Assignments](), [Labs](), [Quizes]() |
-| Week 4 | [Custom Models](https://github.com/sulaiman-shamasna/TensorFlow-Advanced-Techniques-Specialization-Coursera/tree/main/Course%20One%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/week%204%20-%20Custom%20Models)         | [Notes](), Assignments](), [Labs](), [Quizes]() |
-| Week 5 | [Custom Callbacks](https://github.com/sulaiman-shamasna/TensorFlow-Advanced-Techniques-Specialization-Coursera/tree/main/Course%20One%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/week%205%20-%20Custom%20Callbacks)      | [Notes](), Assignments](), [Labs](), [Quizes]() |
+| Week 1 | [Functional APIs](https://github.com/sulaiman-shamasna/TensorFlow-Advanced-Techniques-Specialization-Coursera/tree/main/Course%20One%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/week%201%20-%20Functional%20APIs)     | Notes, Assignements, Labs, Quizes |
+| Week 2 | [Custom Loss Functions](https://github.com/sulaiman-shamasna/TensorFlow-Advanced-Techniques-Specialization-Coursera/tree/main/Course%20One%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/week%202%20-%20Custom%20Loss%20Functions) | Notes, Assignements, Labs, Quizes |
+| Week 3 | [Custom Layers](https://github.com/sulaiman-shamasna/TensorFlow-Advanced-Techniques-Specialization-Coursera/tree/main/Course%20One%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/week%203%20-%20Custom%20Layers)         | Notes, Assignements, Labs, Quizes |
+| Week 4 | [Custom Models](https://github.com/sulaiman-shamasna/TensorFlow-Advanced-Techniques-Specialization-Coursera/tree/main/Course%20One%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/week%204%20-%20Custom%20Models)         | Notes, Assignements, Labs, Quizes |
+| Week 5 | [Custom Callbacks](https://github.com/sulaiman-shamasna/TensorFlow-Advanced-Techniques-Specialization-Coursera/tree/main/Course%20One%20-%20Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/week%205%20-%20Custom%20Callbacks)      | Notes, Assignements, Labs, Quizes |
 
 
 | Week | Topics                 | Links |
